@@ -4,8 +4,7 @@
 		<button @click="handleNavigte">跳转</button>
 		<button @click="handleRadirect">重定向</button>
 		</view> 
-		
-		
+
 		<view class="">
 			<button type="primary" @click="go()">页面刷新</button>
 		</view>
